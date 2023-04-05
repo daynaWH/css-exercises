@@ -1,0 +1,23 @@
+.odd {
+    background-color: rgb(242, 171, 169);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two,
+#four {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(161, 252, 143);
+    font-weight: bold;
+}
+
+.medium-font {
+    font-size: 24px;
+}
